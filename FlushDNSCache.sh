@@ -25,8 +25,6 @@
 #                                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-# - - - - - - - - - - - - - - - - SET REQUIRED VARIABLES HERE - - - - - - - - - - - - - - - - #
-
 # - - - - - - - - - - - - - - - - DO NOT EDIT BELOW THIS LINE - - - - - - - - - - - - - - - - #
 
 # Set variable for macOS Version
